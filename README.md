@@ -21,14 +21,12 @@
     - 有正确的流程图  
 
 ### 工程目录：  
-- src 
+- src
   - main.c
-- debug  
+- debug
   - 
   - 
-  - 
-  - 
-  - 
+  -
 - release
   - WeManage.exe
 
