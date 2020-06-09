@@ -33,7 +33,7 @@
   - std.txt             // 包含学生成绩等信息，初始化见文件
   - WeManage_V2.0.1.exe // 可执行文件，直接运行即可
 - README.md
-- ProgrammingRules.md   //C语音工程代码规范
+- ProgrammingRules.md   //C语言工程代码规范
 
 ### 项目背景
 - 大一下学期高级程序设计语言(C)课程设计   
