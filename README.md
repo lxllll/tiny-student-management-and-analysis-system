@@ -21,6 +21,9 @@
     - 有正确的流程图  
 
 ### 工程目录：  
+- doc
+  - doc(PDFversion).pdf
+  - doc(wordversion).docx
 - src
   - main.c              // 项目的主函数
   - apass.txt           // 即 adminpassword ，教师管理员密码，初始为 123456
