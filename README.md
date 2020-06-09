@@ -47,4 +47,4 @@
 - Yuxiang Cai  
 
 ### 开源协议  
-No License
+Apache License Version 2.0
