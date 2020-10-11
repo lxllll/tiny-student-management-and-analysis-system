@@ -1,4 +1,4 @@
-# SDUWH学生成绩管理与分析系统
+# Student_Management_System
 
 ### 优秀（90+）的标准：  
 
@@ -41,10 +41,3 @@
 
 ### 使用
 - 在 src 文件夹中执行 WeManage.exe 即可  
-
-### 主要项目负责人
-- Yuedong Wu
-- Yuxiang Cai  
-
-### 开源协议  
-Apache License Version 2.0
