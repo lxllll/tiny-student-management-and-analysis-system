@@ -1,4 +1,4 @@
-# tiny-students-management-and-analysis-system
+# tiny-student-management-and-analysis-system
 
 ## 工程目录：  
 - doc
