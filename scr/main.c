@@ -111,7 +111,7 @@ int main(void)
 			headview();
 			printf("\n\n");
 			printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+			printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 			printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			add_student();
@@ -122,7 +122,7 @@ int main(void)
 			headview();
 			printf("\n\n");
 			printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+			printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 			printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			write();
@@ -133,7 +133,7 @@ int main(void)
 			headview();
 			printf("\n\n");
 			printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+			printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 			printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\n\n\n\t\t\t\t\t\t请输入学号：");
@@ -164,7 +164,7 @@ int main(void)
 			headview();
 			printf("\n\n");
 			printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t     │    SDUWH简易学生成绩管理与分析系统      │\n");
+			printf("\t\t\t\t     │    SDU简易学生成绩管理与分析系统      │\n");
 			printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\n\n\n\t\t\t\t\t\t请输入新密码：");
@@ -189,7 +189,7 @@ bool login(void)
 again:system("cls");
 	headview();
 	printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t     │     SDUWH简易学生成绩管理与分析系统     │\n");
+	printf("\t\t\t\t     │     SDU简易学生成绩管理与分析系统     │\n");
 	printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 	printf("\n\n\n\n\n");
 	printf("\t\t\t\t\t你的账户类型？   1——>学生 | 2——>教师\n\n");
@@ -198,7 +198,7 @@ again:system("cls");
 	system("cls");
 begain:headview();
 	printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t     │     SDUWH简易学生成绩管理与分析系统     │\n");
+	printf("\t\t\t\t     │     SDU简易学生成绩管理与分析系统     │\n");
 	printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 	printf("\n\n\n\n\n");
 	printf("\t\t\t\t\t   用户名:	");
@@ -339,7 +339,7 @@ int awelcome(void)
 	system("cls");
 	headview();
 	printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t     │     SDUWH简易学生成绩管理与分析系统     │\n");
+	printf("\t\t\t\t     │     SDU简易学生成绩管理与分析系统     │\n");
 	printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 	printf("\n");
 	printf("\t\t\t\t\t\t\t    MENU\n\n");
@@ -363,7 +363,7 @@ int swelcome(void)
 	system("cls");
 	headview();
 	printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t     │     SDUWH简易学生成绩管理与分析系统     │\n");
+	printf("\t\t\t\t     │     SDU简易学生成绩管理与分析系统     │\n");
 	printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 	printf("\n\n");
 	printf("\t\t\t\t\t\t\t   MENU\n\n");
@@ -404,7 +404,7 @@ int swelcome(void)
 //窗口初始化
 void surface(void)
 {
-	SetConsoleTitle("SDUWH_STU_GRADES_MANAGER");
+	SetConsoleTitle("SDU_STU_GRADES_MANAGER");
 	system("color 70");
 	modeset(1200, 675);
 	headview();
@@ -642,7 +642,7 @@ void write(void)
 				headview();
 				printf("\n\n");
 				printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-				printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+				printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 				printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 				printf("\n\n");
 				printf("\t\t\t\t\t\t      0-修改姓名\n\n");
@@ -658,7 +658,7 @@ void write(void)
 					headview();
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\n\t\t\t\t\t\t      修改第几次成绩：");
@@ -986,7 +986,7 @@ int extreme_value(Node* list, int choice, int code_num)
 	system("cls");
 	printf("\n\n");
 	printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+	printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-教师   │\n");
 	printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 	printf("\n\n");
 	printf("\n\n");
@@ -1264,7 +1264,7 @@ double variance_all(Node* phead)
 	system("cls");
 	printf("\n\n");
 	printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+	printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-教师   │\n");
 	printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 	printf("\n\n");
 	printf("\n\n");
@@ -1277,7 +1277,7 @@ double variance_all(Node* phead)
 		system("cls");
 		printf("\n\n");
 		printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-		printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+		printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-教师   │\n");
 		printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 		printf("\n\n");
 		printf("\n\n");
@@ -1470,7 +1470,7 @@ int analyze(void)
 			system("cls");
 			printf("\n\n");
 			printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+			printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-学生   │\n");
 			printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\t\t\t\t姓名：%s", temp->data.name);
@@ -1510,7 +1510,7 @@ int analyze(void)
 			system("cls");
 			printf("\n\n");
 			printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+			printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-教师   │\n");
 			printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\n\n");
@@ -1552,14 +1552,14 @@ void f_analyze(int change)
 	if (type) 
 	{
 		printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-		printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+		printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 		printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 		printf("\n\n");
 	}
 	else 
 	{
 		printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-		printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+		printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 		printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 		printf("\n\n");
 		printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1588,7 +1588,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1602,7 +1602,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1616,7 +1616,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1630,7 +1630,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1652,7 +1652,7 @@ void f_analyze(int change)
 			system("cls");
 			printf("\n\n");
 			printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+			printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 			printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1672,7 +1672,7 @@ void f_analyze(int change)
 			system("cls");
 			printf("\n\n");
 			printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+			printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-学生   │\n");
 			printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\t\t\t\t   姓名：%s", temp->data.name);
@@ -1714,7 +1714,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\n\n");
@@ -1725,7 +1725,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\n\n");
@@ -1736,7 +1736,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\n\n");
@@ -1747,7 +1747,7 @@ void f_analyze(int change)
 					system("cls");
 					printf("\n\n");
 					printf("\t\t\t\t     ╭ ==============================○●○●======╮\n");
-					printf("\t\t\t\t     │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+					printf("\t\t\t\t     │  SDU简易学生成绩管理与分析系统-教师   │\n");
 					printf("\t\t\t\t     ╰ ======○●○●==============================╯\n");
 					printf("\n\n");
 					printf("\n\n");
@@ -1770,7 +1770,7 @@ void f_analyze(int change)
 			system("cls");
 			printf("\n\n");
 			printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-			printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-教师   │\n");
+			printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-教师   │\n");
 			printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 			printf("\n\n");
 			printf("\n\n");
@@ -1803,7 +1803,7 @@ void GPA(Node* phead)
 	headview();
 	printf("\n\n");
 	printf("\t\t\t\t  ╭ ==============================○●○●======╮\n");
-	printf("\t\t\t\t  │  SDUWH简易学生成绩管理与分析系统-学生   │\n");
+	printf("\t\t\t\t  │  SDU简易学生成绩管理与分析系统-学生   │\n");
 	printf("\t\t\t\t  ╰ ======○●○●==============================╯\n");
 	printf("\n\n");
 	Node* p;
