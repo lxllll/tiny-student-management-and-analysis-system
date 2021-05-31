@@ -1,6 +1,6 @@
 # tiny-student-management-and-analysis-system
 
-## 工程目录：  
+## 工程目录
 - doc
   - doc(PDFversion).pdf
   - doc(wordversion).docx
